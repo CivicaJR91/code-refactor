@@ -19,7 +19,7 @@ The customer is a marketing agency. They wanted the code of the page to follow a
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
-## Page Mockups - Final Page:
+## Page Mockup - Final Page:
 ![Horisean Optimized Page](./assets/images/Horiseaon_Code_Refactor_JSR_Work.png)
 
 
@@ -29,10 +29,8 @@ The customer is a marketing agency. They wanted the code of the page to follow a
 * Chrome, Safari, Firefox - to ensure page render correctly
 
 # Repository:
-* Name
-* Link:
+* Repository: https://github.com/CivicaJR91/code-refactor
+* Page Link: https://civicajr91.github.io/code-refactor/
 
-# Versioning:
 
-This is the first version.
 
